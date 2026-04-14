@@ -8,3 +8,4 @@ A lightweight Experience API Learning Record Store (LRS)
 // clarify the control flow
 // clarify the control flow
 // clarify the control flow
+// guard against empty input
